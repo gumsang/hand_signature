@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_signature/empty_page.dart';
+import 'package:flutter_signature/tw_gesture_detect.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const EmptyPage(),
+      home: const TwGestureDetect(),
     );
   }
 }

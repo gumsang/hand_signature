@@ -1,9 +1,9 @@
 # flutter_signature
 
-필압이 감지 가능한 메모 및 사인 라이브러리 두가지
-
+속도 감지 가능한 메모 및 사인 라이브러리 두가지
 - syncfusion_flutter_signaturepad
 - hand_signature
+
 
 ## 참고사항
 
